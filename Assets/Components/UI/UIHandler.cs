@@ -9,6 +9,7 @@ public class UIHandler : MonoBehaviour
     [SerializeField] private GameObject customizeFrame;
     [SerializeField] private GameObject animationFrame;
     [SerializeField] private GameObject changeFrame;
+    [SerializeField] private GameObject notice;
 
     public void ResetToMain()
     {
@@ -43,5 +44,11 @@ public class UIHandler : MonoBehaviour
     {
         this.NoMain();
         changeFrame.SetActive(true);
+    }
+
+    public void StartUI()
+    {
+        notice.SetActive(false);
+        this.ResetToMain();
     }
 }

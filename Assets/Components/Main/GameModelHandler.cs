@@ -4,11 +4,15 @@ using UnityEngine;
 
 public class GameModelHandler : MonoBehaviour
 {
-    [SerializeField]
-    private GameObject currentModel;
+    public GameObject currentModel;
 
     public void SetModel(GameObject model)
     {
         this.currentModel = model;
+    }
+
+    public void GetContentPlaced()
+    {
+
     }
 }

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: 
+    vuforiaLicenseKey: AY6AbKL/////AAABmXXymKNc6UzjrwSAh0mFpXd5LjGVCKEuD1y1QmG27I3B8jE43ZiPucehoKt7CuzQXAxBYYjB+3PII35wSP7NtU66wwRFQcMZT6V8BSsCDTYhpwXsb9uGNwcL+lkRGVEd81LFgT9SWkcyAVZSLXGknnLr1RrKqHbCOEdd+PLSSRx08AQcyXywY7GUgzPA0zyG6k8m/+RzjP/OHFSFtmADl74jHT4TcDpbPO2NQlKEmnhMYLcP34BBOEDH4SyxIZpSBxqXbC2DPqaX6JMEPbvmQ1LHQXdVJr+Rx10Syzkwm4PFLktYvlTx8iK3blgY8I9GsyHwqDG1qwex2Ij21i69c/HzesLe2NV6kM/HI9hG8Sls
     ufoLicenseKey: QVUyRk9Uai8vLy8vQUFBQUtPNHdMeU0xaEVsRm43SnNzL3NjQjBjSjdzZXl3ZS9KYUxnUFdTVlNTK3NBR3libDFYWFZzakoxNTQ5aU1VUko1RlpCTlJlMHJvRXNsMys0c3pKVFU2blZyc013K1N5RkR1QjR3OG1uUU10cTRacWtGeDdIdFJIUURNNU4vUHhtNWNqY0pmZDdBdmZ1Z1lCWVR2NEt6cVZkMmZFMUtISEw0M3hjbHJjb2kvVTdOSFVlYkM4ckh0R1VNdkp5NEZSSUFWeFJIYzlzZFpFWGwwMTlpRG83S254RFpQQjRoSEtZcWVxNXVaWVVoZ2Y5Y2M5UFE4RTlIbGowUGdHU1ZxektjcCtiTTlDQU1RTTVxL2l1ZytySUFrZERKdUVxMGxNdVBkb3ducUIwN2pmc1pSN1orTWJkWDQxY1ovdVMvQVRIVXk1WnRpSkNaYmZpeHJiY1FBMDBURHk2VVU2NmV3cHZQOXVLRnNpN1orWmw=
     delayedInitialization: 0
     cameraFocusModeSetting: 2
@@ -42,7 +42,7 @@ MonoBehaviour:
     autoImportArcore: 1
     thirdPartyARCoreClientDetected: 0
   playmode:
-    mRecordingPath: 
+    mRecordingPath: G:/Unity Development/FinalProjectHCUI/Assets/Debug/Recording.mp4
     playModeType: 0
   webcam:
     renderTextureLayer: 30
